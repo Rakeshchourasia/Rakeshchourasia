@@ -9,3 +9,4 @@ Beyond the world of programming, I delve into various domains, soaking up knowle
 When I'm not diving into the depths of code, you can find me fostering creativity through photography 📸, exploring new cultures, and cherishing the beauty of life's moments.
 
 I'm eager to connect with like-minded individuals, exchange ideas, and collaborate on exciting projects. Let's embark on this educational odyssey together, unlocking the potential within ourselves and the world of technology! 🌐 #TechVoyager #JavaJourney #StudentExplorer #PassionUnbound
+I am here to collab in project on web developments using html,css,java,python and django
