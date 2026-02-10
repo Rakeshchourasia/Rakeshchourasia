@@ -36,6 +36,11 @@ A comprehensive custom prompt manager designed to streamline AI workflows. Featu
 <br/>
 `MERN Stack` `AI Integration` `Workflow Automation`
 
+### 👥 HR Management System (HRMS)
+An all-in-one platform for managing employee lifecycles. Key modules include automated payroll processing, leave management, and holiday/event tracking systems.
+<br/>
+`React` `Node.js` `Payroll Logic` `Leave Management`
+
 ### 🌏 Brilliant Bihar
 A full-stack regional platform project focused on connecting users with local resources and information. (Currently in active development).
 <br/>
@@ -66,7 +71,7 @@ Analyzed restaurant sales and customer behavior using **Power BI** and **SQL** t
 
 ## 🌐 Connect With Me
 📧 **Email:** rakeshchourasia100@gmail.com  
-💼 **LinkedIn:** [Rakesh Chourasia](https://linkedin.com/in/rakesh-chourasia)  
+💼 **LinkedIn:** [Rakesh Chourasia](https://www.linkedin.com/in/rakesh-chourasia-3a4b3825b/)  
 👨‍💻 **GitHub:** [Rakeshchourasia](https://github.com/Rakeshchourasia)
 
 <p align="center"> 💡 <i>"Code. Analyze. Build. Repeat."</i> </p>
