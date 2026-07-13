@@ -1,289 +1,267 @@
+````md
 <div align="center">
 
-# Hi 👋 I'm Rakesh Chourasia
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=RAKESH%20CHOURASIA&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=40"/>
 
-### 🚀 Full Stack MERN Developer • Backend Engineer • Data Analyst
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> WELCOME TO MY DIGITAL UNIVERSE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Building+Scalable+MERN+Applications;Backend+Developer+%7C+REST+API+Designer;Real-Time+Systems+with+Socket.io;Clean+Code+%7C+Problem+Solver+%7C+Tech+Explorer" />
+### ⚡ MERN Stack Engineer • Backend Architect • Data Analyst • Tech Explorer ⚡
 
-<img src="https://komarev.com/ghpvc/?username=Rakeshchourasia&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=INITIALIZING+CYBER+PROFILE...;FULL+STACK+MERN+DEVELOPER;BUILDING+SCALABLE+BACKEND+SYSTEMS;REAL-TIME+APPLICATIONS;AI+WORKFLOWS+%7C+MODERN+WEB+ARCHITECTURE" />
+
+<img src="https://komarev.com/ghpvc/?username=Rakeshchourasia&label=PROFILE+VISITORS&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🧠 SYSTEM.LOG
 
-```javascript
-const rakesh = {
-    education: "B.Tech CSE (2025)",
-    role: "Full Stack Developer",
-    company: "Metconnect Infotech Pvt Ltd",
-    experience: "Building Production Ready Applications",
-    specialization: [
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB"
-    ],
-    interests: [
-        "Backend Architecture",
-        "System Design",
-        "Real-time Applications",
-        "AI Workflows",
-        "Data Analytics"
-    ],
-    motto: "Build Solutions that Matter."
-}
+```yaml
+Name        : Rakesh Chourasia
+Status      : ONLINE 🟢
+Graduation  : B.Tech Computer Science (2025)
+
+Current Role:
+  Full Stack Developer
+  Metconnect Infotech Pvt Ltd
+
+Mission:
+  Design scalable software.
+  Build intelligent systems.
+  Deliver exceptional user experiences.
+
+Current Focus:
+  React.js
+  Node.js
+  Express.js
+  MongoDB
+  System Design
+  AI Powered Applications
+
+Philosophy:
+  "Think in Systems. Build for Scale."
 ```
 
 ---
 
-# 🚀 Tech Arsenal
+# ⚡ CYBER TECH MATRIX
 
-## Frontend
+<div align="center">
 
-<p>
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,html,css"/>
 
-</p>
+---
 
-## Backend
-
-<p>
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 
-</p>
+---
 
-## Database
-
-<p>
+### DATABASES
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
-</p>
+---
 
-## Programming
+### TOOLS
 
-<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker"/>
+
+---
+
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=javascript,python"/>
 
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
-
-</p>
+</div>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 DEPLOYED PROJECTS
 
-## 🚀 Prompt Optimizer
+## ⚡ Prompt Optimizer
 
-### AI Prompt Management Platform
+```
+STATUS       : Production
+CATEGORY     : AI Workflow Platform
 
-✔ Prompt Version Control
-
-✔ Categories
-
-✔ Rich Text Editor
-
-✔ Prompt Sharing
-
-✔ AI Workflow
-
-**Tech**
-
-`React`
-
-`Node`
-
-`MongoDB`
-
-`Express`
+FEATURES
+■ Prompt Versioning
+■ Rich Text Editing
+■ Prompt Library
+■ AI Workflow Management
+■ Team Collaboration
+```
 
 ---
 
-## 👨‍💼 HR Management System
+## 🛰 HR Management System
 
-Production HR Platform
+```
+STATUS       : Enterprise Application
 
-✔ Payroll
-
-✔ Attendance
-
-✔ Leave Management
-
-✔ Employee Dashboard
-
-✔ Holiday Management
-
-✔ Reports
+MODULES
+■ Employee Management
+■ Payroll
+■ Leave Management
+■ Attendance
+■ Holiday Calendar
+■ Dashboard
+```
 
 ---
 
-## 🌏 Brilliant Bihar
+## 🌐 Brilliant Bihar
 
-Regional Community Platform
+```
+STATUS       : Active Development
 
-✔ User Authentication
+MISSION
+Connecting communities through technology.
 
-✔ News
-
-✔ Events
-
-✔ Resource Directory
-
-✔ Admin Panel
+STACK
+React
+Node
+MongoDB
+Express
+```
 
 ---
 
 ## 🏠 Property Portal
 
-Real Estate Platform
+```
+STATUS       : Live Development
 
-✔ Property Listing
-
-✔ Search Filters
-
-✔ Admin Dashboard
-
-✔ User Authentication
-
-✔ Image Upload
-
----
-
-## 💬 Chat Application
-
-Real Time Communication Platform
-
-✔ Socket.io
-
-✔ Group Chat
-
-✔ Online Users
-
-✔ Typing Indicator
-
-✔ Notifications
+FEATURES
+■ Property Listings
+■ Authentication
+■ Image Upload
+■ Search
+■ Admin Dashboard
+```
 
 ---
 
-## 📊 Zomato Analytics Dashboard
+## 💬 Real-Time Chat
 
-Business Intelligence Dashboard
-
-✔ SQL Analysis
-
-✔ Power BI
-
-✔ KPI Dashboard
-
-✔ Customer Insights
-
-✔ Sales Trends
+```
+Socket.io
+JWT Authentication
+Private Chat
+Group Chat
+Typing Status
+Notifications
+Presence Detection
+```
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 Zomato Analytics
+
+```
+SQL
+Power BI
+Business Intelligence
+Interactive Dashboard
+Sales Insights
+Customer Analytics
+```
+
+---
+
+# 📡 GITHUB TELEMETRY
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rakeshchourasia&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rakeshchourasia&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshchourasia&theme=react-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Highlights
+# 🏆 ACHIEVEMENTS.UNLOCKED
 
-🏢 Full Stack Developer @ Metconnect Infotech Pvt Ltd
+```diff
++ Full Stack Developer @ Metconnect Infotech Pvt Ltd
 
-💻 Production MERN Developer
++ Production MERN Applications
 
-📊 Data Analytics Enthusiast
++ REST API Development
 
-⚡ REST API Development
++ Real-Time Systems
 
-🔐 Authentication & Authorization
++ Authentication & Security
 
-📡 Real-time Applications
++ Data Analytics Dashboards
 
-📱 Responsive UI Development
++ Backend Optimization
 
-🚀 Backend Performance Optimization
-
----
-
-# 🌱 Currently Exploring
-
-- Redis
-- BullMQ
-- Docker
-- AWS
-- Kubernetes
-- Microservices
-- CI/CD
-- AI Agents
-- LangChain
-- Vector Databases
++ AI Workflow Development
+```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 NEXT UPGRADE
 
-✅ Master System Design
+```text
+[██████████░░░░░░░] Redis
 
-✅ Build SaaS Products
+[████████░░░░░░░░] BullMQ
 
-✅ Learn Cloud Architecture
+[███████░░░░░░░░░] Docker
 
-✅ Contribute to Open Source
+[██████░░░░░░░░░░] Kubernetes
 
-✅ 500+ LeetCode Problems
+[█████░░░░░░░░░░░] AWS
 
-✅ Build AI Powered Applications
+[█████░░░░░░░░░░░] Microservices
+
+[████░░░░░░░░░░░░] AI Agents
+```
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 CONNECT TO THE NETWORK
 
-📧 **Email**
-
+```yaml
+Email:
 rakeshchourasia100@gmail.com
 
-💼 **LinkedIn**
-
-https://linkedin.com/in/rakesh-chourasia-3a4b3825b
-
-💻 **GitHub**
-
+GitHub:
 https://github.com/Rakeshchourasia
+
+LinkedIn:
+https://linkedin.com/in/rakesh-chourasia-3a4b3825b
+```
 
 ---
 
 <div align="center">
 
-## 💭 Quote
+# 「 CODE • CREATE • EVOLVE 」
 
-> **"Great software is not built by writing more code, but by solving the right problems with the right architecture."**
+### "The future belongs to engineers who build systems, not just software."
 
-⭐ If you like my work, consider following my journey.
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F5FF,50:8A2BE2,100:FF0080"/>
 
 </div>
+````
