@@ -140,27 +140,51 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 <h2 id="analytics">📊 GITHUB ANALYTICS</h2>
 
+<p align="center"><sub>Live stats pulled directly from GitHub — commits, languages, streaks, and daily activity, all in one place.</sub></p>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" />
+<h4>📈 Overview &amp; Top Languages</h4>
+<img height="170" alt="Rakesh's GitHub stats — total stars, commits, PRs, issues and contribution rank" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=c9d1d9&ring_color=FF00FF&count_private=true" />
+<img height="170" alt="Rakesh's most used languages by repository share" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshchourasia&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B61FF&fire=FF00FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshchourasia&bg_color=0D1117&color=00F5FF&line=7B61FF&point=FF00FF&area=true&hide_border=true" width="97%"/>
+<h4>🔥 Contribution Streak</h4>
+<img alt="Rakesh's current and longest GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshchourasia&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B61FF&fire=FF00FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&card_width=600" />
+<br/><sub>Total contributions · current streak · longest streak — updates daily</sub>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rakeshchourasia&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/Rakeshchourasia/Rakeshchourasia/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+<h4>📅 Daily Activity Graph</h4>
+<img alt="Rakesh's daily GitHub contribution activity over the last month" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshchourasia&bg_color=0D1117&color=00F5FF&line=7B61FF&point=FF00FF&area=true&area_color=7B61FF&hide_border=true&hide_title=false" width="97%"/>
+
+<br/><br/>
+
+<h4>🏆 Trophy Case</h4>
+<img alt="Rakesh's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Rakeshchourasia&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+<br/><br/>
+
+<h4>🐍 Contribution Snake</h4>
+<img alt="Animated snake eating through Rakesh's contribution graph" src="https://raw.githubusercontent.com/Rakeshchourasia/Rakeshchourasia/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 
 </div>
 
 <details>
-<summary><b>ℹ️ widget setup notes</b></summary>
+<summary><b>ℹ️ what each widget shows &amp; setup notes</b></summary>
 <br/>
 
-- **Contribution snake** requires a GitHub Action in a repo named exactly `Rakeshchourasia` (see <a href="https://github.com/Platane/snk">Platane/snk</a>) to generate the SVG this points to.
-- Stats / streak / trophy widgets refresh automatically — no setup needed.
+| Widget | What it shows | Setup needed |
+|---|---|---|
+| **Overview card** | Total stars earned, commits, PRs, issues, and GitHub contribution rank | None — refreshes automatically |
+| **Top languages** | Most-used languages across public repos, by percentage | None — refreshes automatically |
+| **Streak stats** | Total contributions, current daily streak, and longest streak on record | None — refreshes automatically |
+| **Activity graph** | Day-by-day contribution activity trend for the last month | None — refreshes automatically |
+| **Trophy case** | Milestone badges (stars, followers, commits, PRs, repos, etc.) | None — refreshes automatically |
+| **Contribution snake** | Animated snake that "eats" through the contribution graph | Requires a GitHub Action in a repo named exactly `Rakeshchourasia` (see <a href="https://github.com/Platane/snk">Platane/snk</a>) to generate the SVG this points to |
+
+> If any card above shows as broken instead of rendering, it's usually a temporary outage on the free stats API (Vercel/Heroku instances get rate-limited) — refreshing the page or waiting a few minutes usually fixes it.
 
 </details>
 
