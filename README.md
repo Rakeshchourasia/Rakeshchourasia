@@ -1,267 +1,305 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF0080&text=RAKESH%20CHOURASIA&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:6A00FF,100:FF0080&text=RAKESH%20CHOURASIA&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> WELCOME TO MY DIGITAL UNIVERSE
+<h1>⚡ Full Stack MERN Developer</h1>
 
-### ⚡ MERN Stack Engineer • Backend Architect • Data Analyst • Tech Explorer ⚡
+<h3>Building Scalable Backend Systems • Modern Web Applications • AI Powered Solutions</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=INITIALIZING+CYBER+PROFILE...;FULL+STACK+MERN+DEVELOPER;BUILDING+SCALABLE+BACKEND+SYSTEMS;REAL-TIME+APPLICATIONS;AI+WORKFLOWS+%7C+MODERN+WEB+ARCHITECTURE" />
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Workspace...;Full+Stack+MERN+Developer;Backend+Engineer;Real-Time+Application+Developer;Clean+Code+%7C+Scalable+Architecture;Always+Learning+Something+New"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Rakeshchourasia&label=PROFILE+VISITORS&style=for-the-badge&color=blueviolet"/>
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=Rakeshchourasia&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Rakeshchourasia?style=for-the-badge&color=00f5ff"/>
+
+<img src="https://img.shields.io/github/stars/Rakeshchourasia?style=for-the-badge&color=ff00ff"/>
+
+</p>
 
 </div>
 
 ---
 
-# 🧠 SYSTEM.LOG
+# 💀 INITIALIZE PROFILE
 
-```yaml
-Name        : Rakesh Chourasia
-Status      : ONLINE 🟢
-Graduation  : B.Tech Computer Science (2025)
+```bash
+> whoami
 
-Current Role:
-  Full Stack Developer
-  Metconnect Infotech Pvt Ltd
+Name      : Rakesh Chourasia
+Role      : Full Stack Developer
+Company   : Metconnect Infotech Pvt Ltd
+Education : B.Tech Computer Science (2025)
 
-Mission:
-  Design scalable software.
-  Build intelligent systems.
-  Deliver exceptional user experiences.
+Mission
+--------
+Design scalable software.
+Solve real-world problems.
+Build products people love.
 
-Current Focus:
-  React.js
-  Node.js
-  Express.js
-  MongoDB
-  System Design
-  AI Powered Applications
-
-Philosophy:
-  "Think in Systems. Build for Scale."
+Status
+--------
+Currently Building Production MERN Applications
 ```
 
 ---
 
-# ⚡ CYBER TECH MATRIX
+# ⚡ ABOUT ME
+
+```javascript
+const developer = {
+
+    name: "Rakesh Chourasia",
+
+    role: "Full Stack Developer",
+
+    company: "Metconnect Infotech Pvt Ltd",
+
+    code: [
+        "JavaScript",
+        "Python"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Redux",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express",
+        "Socket.io",
+        "JWT"
+    ],
+
+    database: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL"
+    ],
+
+    currentlyLearning: [
+        "Redis",
+        "BullMQ",
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "System Design"
+    ],
+
+    lifePhilosophy:
+    "Build once. Scale forever."
+}
+```
+
+---
+
+# 🚀 TECH STACK
 
 <div align="center">
 
-### FRONTEND
+## Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,html,css"/>
 
 ---
 
-### BACKEND
+## Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 
 ---
 
-### DATABASES
+## Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 
 ---
 
-### TOOLS
+## Dev Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker"/>
-
----
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=javascript,python"/>
 
 </div>
 
 ---
 
-# 🚀 DEPLOYED PROJECTS
+# 🚀 FEATURED PROJECTS
 
-## ⚡ Prompt Optimizer
+## 🤖 Prompt Optimizer
 
-```
-STATUS       : Production
-CATEGORY     : AI Workflow Platform
+> AI-powered prompt management platform inspired by Notion & PromptHub.
 
-FEATURES
-■ Prompt Versioning
-■ Rich Text Editing
-■ Prompt Library
-■ AI Workflow Management
-■ Team Collaboration
-```
+### Features
 
----
+- Prompt Version Control
+- Rich Markdown Editor
+- Categories & Tags
+- AI Workflow
+- Prompt Sharing
+- Search & Filters
 
-## 🛰 HR Management System
+**Stack**
 
-```
-STATUS       : Enterprise Application
-
-MODULES
-■ Employee Management
-■ Payroll
-■ Leave Management
-■ Attendance
-■ Holiday Calendar
-■ Dashboard
-```
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
-## 🌐 Brilliant Bihar
+## 🏢 HR Management System
 
-```
-STATUS       : Active Development
+Enterprise HR platform for modern organizations.
 
-MISSION
-Connecting communities through technology.
+### Modules
 
-STACK
-React
-Node
-MongoDB
-Express
-```
-
----
-
-## 🏠 Property Portal
-
-```
-STATUS       : Live Development
-
-FEATURES
-■ Property Listings
-■ Authentication
-■ Image Upload
-■ Search
-■ Admin Dashboard
-```
+- Employee Management
+- Payroll System
+- Leave Management
+- Holiday Calendar
+- Attendance
+- Dashboard
+- Reports
 
 ---
 
-## 💬 Real-Time Chat
+## 🌍 Brilliant Bihar
 
-```
-Socket.io
-JWT Authentication
-Private Chat
-Group Chat
-Typing Status
-Notifications
-Presence Detection
-```
+Community platform connecting local people with information, events, businesses and opportunities.
+
+`React`
+`Node`
+`MongoDB`
 
 ---
 
-## 📊 Zomato Analytics
+## 🏠 Property Listing Portal
 
-```
-SQL
-Power BI
-Business Intelligence
-Interactive Dashboard
-Sales Insights
-Customer Analytics
-```
+A complete real estate platform with authentication, property management, search filters and admin dashboard.
 
 ---
 
-# 📡 GITHUB TELEMETRY
+## 💬 Real-Time Chat Application
 
-<p align="center">
+Features
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rakeshchourasia&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshchourasia&theme=react-dark&hide_border=true"/>
-
-</p>
+- Socket.io
+- JWT Authentication
+- Private Chat
+- Group Chat
+- Typing Indicator
+- Online Users
+- Notifications
 
 ---
 
-# 🏆 ACHIEVEMENTS.UNLOCKED
+## 📊 Zomato Sales Analysis
 
-```diff
-+ Full Stack Developer @ Metconnect Infotech Pvt Ltd
+Business Intelligence Dashboard
 
-+ Production MERN Applications
-
-+ REST API Development
-
-+ Real-Time Systems
-
-+ Authentication & Security
-
-+ Data Analytics Dashboards
-
-+ Backend Optimization
-
-+ AI Workflow Development
-```
+- SQL
+- Power BI
+- Sales Trends
+- Customer Analytics
+- KPI Dashboard
 
 ---
 
-# 🎯 NEXT UPGRADE
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Rakeshchourasia&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshchourasia&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+🏢 Full Stack Developer @ Metconnect Infotech Pvt Ltd
+
+🚀 Production MERN Applications
+
+⚡ REST APIs & Authentication
+
+🌐 Real-Time Systems
+
+📊 Data Analytics Dashboards
+
+🔐 Secure Backend Development
+
+📱 Responsive UI Engineering
+
+---
+
+# 🎯 CURRENT ROADMAP
 
 ```text
-[██████████░░░░░░░] Redis
+██████████████████░░  MERN Stack
 
-[████████░░░░░░░░] BullMQ
+███████████████░░░░  System Design
 
-[███████░░░░░░░░░] Docker
+█████████████░░░░░░  Redis
 
-[██████░░░░░░░░░░] Kubernetes
+██████████░░░░░░░░░  BullMQ
 
-[█████░░░░░░░░░░░] AWS
+█████████░░░░░░░░░░ Docker
 
-[█████░░░░░░░░░░░] Microservices
+████████░░░░░░░░░░░ AWS
 
-[████░░░░░░░░░░░░] AI Agents
+██████░░░░░░░░░░░░░ Kubernetes
+
+█████░░░░░░░░░░░░░░ AI Agents
 ```
 
 ---
 
-# 🌐 CONNECT TO THE NETWORK
+# 🌐 CONNECT WITH ME
 
-```yaml
-Email:
-rakeshchourasia100@gmail.com
+<div align="center">
 
-GitHub:
-https://github.com/Rakeshchourasia
+<a href="mailto:rakeshchourasia100@gmail.com">
+<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-LinkedIn:
-https://linkedin.com/in/rakesh-chourasia-3a4b3825b
-```
+<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/Rakeshchourasia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-# 「 CODE • CREATE • EVOLVE 」
+## ⚡ "The Future Is Built One Commit At A Time."
 
-### "The future belongs to engineers who build systems, not just software."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F5FF,50:8A2BE2,100:FF0080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:00F5FF,50:6A00FF,100:FF0080"/>
 
 </div>
-````
