@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B61FF,70:00F5FF,100:0D1117&height=220&section=header&text=RAKESH%20CHOURASIA&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=60&descSize=15&descColor=FF00FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=RAKESH%20CHOURASIA&fontSize=44&fontColor=00F5FF&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=62&descSize=15&descColor=c9d1d9" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=root%40rakesh%3A~%24+whoami;%3E+full_stack_developer.exe+--stack%3DMERN;%3E+building+scalable+backend+systems...;%3E+status%3A+system_online" alt="Typing SVG" />
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B61FF,100:FF00FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="about">📌 SYSTEM BOOT &amp; ABOUT</h2>
 
@@ -99,7 +99,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:7B61FF,100:00F5FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="skills">🛠️ SKILLS</h2>
 
@@ -136,7 +136,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B61FF,100:FF00FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="analytics">📊 GITHUB ANALYTICS</h2>
 
@@ -188,7 +188,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:7B61FF,100:00F5FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="experience">💼 EXPERIENCE &amp; EDUCATION</h2>
 
@@ -208,7 +208,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B61FF,100:FF00FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="projects">🚀 FEATURED PROJECTS</h2>
 
@@ -350,7 +350,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:7B61FF,100:00F5FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2>🌍 OPEN SOURCE, ORGANIZATIONS &amp; CREDENTIALS</h2>
 
@@ -394,7 +394,7 @@ Backend Architecture &amp; System Design
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B61FF,100:FF00FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="roadmap">🗺️ LEARNING ROADMAP</h2>
 
@@ -410,7 +410,7 @@ Backend Architecture &amp; System Design
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:7B61FF,100:00F5FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="architecture">🏗️ BACKEND ARCHITECTURE &amp; SYSTEM DESIGN</h2>
 
@@ -448,7 +448,7 @@ Exploring practical **AI integration** in production applications — embedding 
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B61FF,100:FF00FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2>💭 QUOTE</h2>
 
@@ -462,7 +462,7 @@ Exploring practical **AI integration** in production applications — embedding 
 <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-0D1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FF00FF&labelColor=0D1117" /></a>
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,50:7B61FF,100:00F5FF&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
 
 <h2 id="contact">🤝 CONNECT</h2>
 
@@ -476,7 +476,7 @@ If you're building something in **MERN**, **backend systems**, or **AI integrati
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B61FF,70:00F5FF,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <sub>Rakesh Chourasia · Patna, Bihar, India</sub>
