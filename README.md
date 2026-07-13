@@ -60,7 +60,9 @@ $ _
 <tr>
 <td width="62%" valign="top">
 
-I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in **Patna, Bihar, India**. I focus on backend-heavy, production-grade systems — architecture that survives real traffic, not just features that demo well.
+I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in **Patna, Bihar, India**, with a **B.Tech in Computer Science Engineering**. Most of my day-to-day work sits on the backend — designing the services, queues, and data layers that keep an application stable once real users and real traffic show up, not just the parts that look good in a demo.
+
+I care about systems that stay predictable under load: request paths that don't block, caches that actually get invalidated correctly, and background jobs that recover cleanly when something fails. On the frontend side, I build with React and Next.js when a project needs a clean, fast interface — but the architecture underneath is where I spend most of my attention.
 
 | | |
 |---|---|
@@ -136,6 +138,16 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 </div>
 
+<h3>📆 Coding Activity — Repositories, Streaks &amp; Contribution Calendar</h3>
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Rakeshchourasia?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=0&config.timezone=Asia%2FKolkata&isocalendar=1&isocalendar.duration=full-year&config.display=large" width="100%"/>
+
+</div>
+
+This calendar and the stats above pull live from GitHub — repository count, stargazers, watchers, current streak, and the isometric contribution map all update automatically as new commits land.
+
 <details>
 <summary><b>ℹ️ widget setup notes</b></summary>
 <br/>
@@ -149,10 +161,21 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 <h2 id="experience">💼 EXPERIENCE &amp; EDUCATION</h2>
 
-| Period | Role | Organization | Highlights |
-|---|---|---|---|
-| **Present** | Full Stack MERN Developer | Metconnect Infotech Pvt Ltd | Backend architecture · real-time systems (Socket.IO + Redis) · queue processing (BullMQ) · JWT auth · Docker |
-| — | B.Tech, Computer Science Engineering | — | Strong foundation in Data Structures, Algorithms & Systems |
+**Full Stack MERN Developer** — Metconnect Infotech Pvt Ltd · *Present*
+
+At Metconnect, I work across the full stack but I'm most often heads-down in the backend — designing services that need to hold up under concurrent load, not just pass a manual test.
+
+- Architecting scalable backend services using Node.js & Express
+- Building real-time features with Socket.IO & Redis pub/sub
+- Designing queue-based background processing with BullMQ
+- Implementing secure, JWT-based authentication flows
+- Working across MongoDB & PostgreSQL depending on the data shape
+- Containerizing services with Docker for consistent environments
+- Applying system design principles — caching, load distribution, rate limiting — to production architecture
+
+**Education**
+
+B.Tech, Computer Science Engineering — a strong grounding in data structures, algorithms, and systems thinking that still shapes how I approach backend design today.
 
 ---
 
@@ -164,6 +187,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 **🤖 Prompt Optimizer**
 `AI Prompt Management Platform`
+
+A workspace for managing, versioning, and refining prompts at scale, so prompt iteration doesn't live in scattered notes and chat history.
 
 - Rich markdown editor for prompt authoring
 - AI-assisted prompt refinement
@@ -179,6 +204,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 **🏢 HR Management System**
 `Enterprise Workforce Platform`
+
+An internal platform for managing employees end-to-end, from onboarding through daily attendance to admin-level reporting.
 
 - Employee lifecycle management
 - Attendance & leave tracking
@@ -197,6 +224,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 **🌾 Brilliant Bihar**
 `Regional Digital Platform`
 
+A regional content platform built to aggregate and serve local information to a broad, mostly mobile audience.
+
 - Content management system
 - Regional data aggregation
 - Responsive, SEO-optimized portal
@@ -210,6 +239,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 **🏘️ Property Listing Portal**
 `Real Estate Marketplace`
+
+A property marketplace connecting owners/agents with buyers, built around fast search and rich media listings.
 
 - Advanced property search & filters
 - Image galleries and virtual tours
@@ -228,6 +259,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 **💬 Real-Time Chat Application**
 `Live Messaging Platform`
 
+A messaging app built to stay responsive under many concurrent connections, using Redis to scale Socket.IO horizontally.
+
 - Socket.IO powered messaging
 - Redis pub/sub for horizontal scaling
 - Typing indicators & online presence
@@ -242,6 +275,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 **📊 Zomato Sales Analysis**
 `Data Analytics Dashboard`
+
+An analytics dashboard turning raw sales exports into a clean, filterable view of regional trends and performance.
 
 - Sales trend visualization
 - Regional performance breakdown
@@ -260,6 +295,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 **🗺️ Land Portal**
 `Land Records & Listings Platform`
 
+A digitization platform bringing land records and listings online, with a map-first interface and an admin verification workflow.
+
 - Land record digitization
 - Map-based plot visualization
 - Document upload & verification
@@ -274,6 +311,8 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 **🌐 Portfolio Website**
 `Personal Developer Showcase`
+
+My personal site — a fast, animated showcase of projects and background, built and deployed on Vercel.
 
 - Interactive project showcase
 - Smooth scroll animations
@@ -323,16 +362,12 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 </tr>
 </table>
 
-<details>
-<summary><b>🏆 Achievements</b></summary>
-<br/>
+<h3>🏆 Achievements</h3>
 
-- Delivered multiple production-grade MERN applications end-to-end
-- Designed real-time systems handling concurrent socket connections
-- Built queue-driven backend architecture with BullMQ & Redis
-- Architected secure authentication flows using JWT
-
-</details>
+- Delivered multiple production-grade MERN applications end-to-end, from data model to deployment
+- Designed real-time systems handling concurrent socket connections without dropping messages under load
+- Built queue-driven backend architecture with BullMQ & Redis to keep heavy jobs off the request path
+- Architected secure authentication flows using JWT across multiple client applications
 
 ---
 
@@ -379,16 +414,15 @@ Focused on **modular, queue-driven, horizontally scalable** backend systems — 
 
 Exploring practical **AI integration** in production applications — embedding AI-assisted workflows into full-stack products rather than treating AI as a side experiment.
 
-<details>
-<summary><b>🎲 A few things I obsess over</b></summary>
-<br/>
+<h3>🎲 A Few Things I Obsess Over</h3>
 
-- I think in terms of queues, not just functions
-- Redis is basically my second brain
-- System design diagrams live rent-free in my head
-- I ship features, but I obsess over architecture
+- I think in terms of queues and events, not just request/response functions
+- Redis is basically my second brain — cache, pub/sub, rate limiter, all at once
+- I debug backend issues faster with a coffee and a request trace than a guess
+- System design diagrams live rent-free in my head, even outside of work
+- I'd rather ship a slightly smaller feature with solid architecture than a big one that falls over at scale
 
-</details>
+> *"Code that works today and code that scales tomorrow are two different disciplines — I try to practice both."*
 
 ---
 
@@ -425,4 +459,3 @@ If you're building something in **MERN**, **backend systems**, or **AI integrati
 <div align="center">
 <sub>Rakesh Chourasia · Patna, Bihar, India</sub>
 </div>
-
