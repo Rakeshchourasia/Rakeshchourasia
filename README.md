@@ -40,7 +40,7 @@
 $ ssh rakesh@devserver
 
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%  boot sequence complete
-
+   
 > cat profile.json
 {
   "name"      : "Rakesh Chourasia",
