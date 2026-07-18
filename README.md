@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=root%40rakesh%3A~%24+whoami;%3E+full_stack_developer.exe+--stack%3DMERN;%3E+building+scalable+backend+systems...;%3E+status%3A+system_online" alt="Typing SVG" />
 
 <br/>
-
+  
 <p>
 <a href="#about">ABOUT</a> &nbsp;·&nbsp;
 <a href="#skills">SKILLS</a> &nbsp;·&nbsp;
