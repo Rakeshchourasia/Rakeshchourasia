@@ -16,7 +16,7 @@
 <a href="#roadmap">ROADMAP</a> &nbsp;·&nbsp;
 <a href="#contact">CONTACT</a>
 </p>
-
+ 
 <a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0D1117" /></a>
 <a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B61FF&labelColor=0D1117" /></a>
 <a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF&labelColor=0D1117" /></a>
