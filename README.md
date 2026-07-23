@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=RAKESH%20CHOURASIA&fontSize=44&fontColor=00F5FF&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=62&descSize=15&descColor=c9d1d9" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=root%40rakesh%3A~%24+whoami;%3E+full_stack_developer.exe+--stack%3DMERN;%3E+building+scalable+backend+systems...;%3E+status%3A+system_online" alt="Typing SVG" />
