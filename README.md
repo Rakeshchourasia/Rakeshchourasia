@@ -11,7 +11,7 @@
 <a href="#skills">SKILLS</a> &nbsp;·&nbsp;
 <a href="#analytics">ANALYTICS</a> &nbsp;·&nbsp;
 <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp;
-<a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
+<a href="#projects">PROJECTS</a> &nbsp;·&nbsp; 
 <a href="#architecture">ARCHITECTURE</a> &nbsp;·&nbsp;
 <a href="#roadmap">ROADMAP</a> &nbsp;·&nbsp;
 <a href="#contact">CONTACT</a>
