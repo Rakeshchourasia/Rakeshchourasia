@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">   
              
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=RAKESH%20CHOURASIA&fontSize=44&fontColor=00F5FF&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=62&descSize=15&descColor=c9d1d9" width="100%"/>
 
