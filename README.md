@@ -1,26 +1,28 @@
-<div align="center">    
-                      
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=RAKESH%20CHOURASIA&fontSize=44&fontColor=00F5FF&fontAlignY=42&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=62&descSize=15&descColor=c9d1d9" width="100%"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/? font=JetBrains+Mono&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=root%40rakesh%3A~%24+whoami;%3E+full_stack_developer.exe+--stack%3DMERN;%3E+building+scalable+backend+systems...;%3E+status%3A+system_online" alt="Typing SVG" />
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=260&section=header&text=RAKESH%20CHOURASIA&fontSize=46&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=root%40rakesh%3A~%24+whoami;%3E+full_stack_developer.exe+--stack%3DMERN;%3E+building+scalable+backend+systems...;%3E+status%3A+system_online" alt="Typing SVG" />
+
 <br/>
-    
+
 <p>
-<a href="#about">ABOUT</a> &nbsp;·&nbsp;
-<a href="#skills">SKILLS</a> &nbsp;·&nbsp;
-<a href="#analytics">ANALYTICS</a> &nbsp;·&nbsp;
-<a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp;
-<a href="#projects">PROJECTS</a> &nbsp;·&nbsp; 
-<a href="#architecture">ARCHITECTURE</a> &nbsp;·&nbsp;
-<a href="#roadmap">ROADMAP</a> &nbsp;·&nbsp;
-<a href="#contact">CONTACT</a>
+<a href="#about"><b>ABOUT</b></a> &nbsp;·&nbsp;
+<a href="#skills"><b>SKILLS</b></a> &nbsp;·&nbsp;
+<a href="#analytics"><b>ANALYTICS</b></a> &nbsp;·&nbsp;
+<a href="#experience"><b>EXPERIENCE</b></a> &nbsp;·&nbsp;
+<a href="#projects"><b>PROJECTS</b></a> &nbsp;·&nbsp;
+<a href="#architecture"><b>ARCHITECTURE</b></a> &nbsp;·&nbsp;
+<a href="#roadmap"><b>ROADMAP</b></a> &nbsp;·&nbsp;
+<a href="#contact"><b>CONTACT</b></a>
 </p>
- 
-<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0D1117" /></a>
-<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B61FF&labelColor=0D1117" /></a>
-<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF&labelColor=0D1117" /></a>
-<a href="mailto:rakesh.chourasia@example.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117" /></a>
+
+<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0D1117&color=161B22" /></a>
+<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B61FF&labelColor=0D1117&color=161B22" /></a>
+<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF&labelColor=0D1117&color=161B22" /></a>
+<a href="mailto:rakesh.chourasia@example.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117&color=161B22" /></a>
 
 <br/><br/>
 
@@ -32,7 +34,7 @@
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="about">📌 SYSTEM BOOT &amp; ABOUT</h2>
 
@@ -40,7 +42,7 @@
 $ ssh rakesh@devserver
 
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%  boot sequence complete
-   
+
 > cat profile.json
 {
   "name"      : "Rakesh Chourasia",
@@ -62,11 +64,11 @@ $ _
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in **Patna, Bihar, India**. I care about backend-heavy, production-grade systems — architecture that survives real traffic, not just features that demo well.
 
-|  |  |
+| | |
 |---|---|
 | 🔭 **Building** | Queue-driven backend services with a real-time layer |
 | 🌱 **Learning** | System Design · AI Integration · Distributed Architecture |
@@ -77,9 +79,9 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 | 💬 **Ask me about** | Backend architecture, queues, real-time systems, MERN |
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
-<table width="100%">
+<table width="100%" style="border:1px solid #30363d;">
 <tr><td colspan="2" align="center"><b>🪪 DEVELOPER CARD</b></td></tr>
 <tr><td><b>Name</b></td><td>Rakesh Chourasia</td></tr>
 <tr><td><b>Role</b></td><td>MERN Developer</td></tr>
@@ -91,41 +93,41 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-0D1117?style=flat-square&labelColor=0D1117&color=00F5FF" /><br/>
-<img src="https://img.shields.io/badge/BUILDING-Scalable%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=7B61FF" /><br/>
-<img src="https://img.shields.io/badge/FOCUS-Backend%20First-0D1117?style=flat-square&labelColor=0D1117&color=FF00FF" />
+<img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-161B22?style=for-the-badge&labelColor=0D1117&color=00F5FF" /><br/><br/>
+<img src="https://img.shields.io/badge/BUILDING-Scalable%20Systems-161B22?style=for-the-badge&labelColor=0D1117&color=7B61FF" /><br/><br/>
+<img src="https://img.shields.io/badge/FOCUS-Backend%20First-161B22?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
 
 </td>
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="skills">🛠️ SKILLS</h2>
 
 <table width="100%">
-<tr><td width="16%"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark"/></td></tr>
+<tr><td width="16%"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark&perline=6"/></td></tr>
 <tr><td><b>Backend</b></td><td>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>&nbsp;
-<img src="https://img.shields.io/badge/BullMQ-0D1117?style=flat-square&labelColor=0D1117&color=00F5FF"/>
-<img src="https://img.shields.io/badge/Socket.IO-0D1117?style=flat-square&logo=socketdotio&logoColor=7B61FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=FF00FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BullMQ-161B22?style=for-the-badge&labelColor=0D1117&color=00F5FF"/>
+<img src="https://img.shields.io/badge/Socket.IO-161B22?style=for-the-badge&logo=socketdotio&logoColor=7B61FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=FF00FF&labelColor=0D1117"/>
 </td></tr>
 <tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark"/></td></tr>
 <tr><td><b>DevOps &amp; Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&theme=dark"/></td></tr>
 <tr><td><b>Testing</b></td><td>
-<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00F5FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/API%20Testing-0D1117?style=flat-square&labelColor=0D1117&color=00FF9D"/>
+<img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=00F5FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/API%20Testing-161B22?style=for-the-badge&labelColor=0D1117&color=00FF9D"/>
 </td></tr>
 <tr><td><b>AI</b></td><td>
-<img src="https://img.shields.io/badge/AI%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=7B61FF"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=flat-square&labelColor=0D1117&color=FF00FF"/>
+<img src="https://img.shields.io/badge/AI%20Integration-161B22?style=for-the-badge&labelColor=0D1117&color=7B61FF"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-161B22?style=for-the-badge&labelColor=0D1117&color=FF00FF"/>
 </td></tr>
 </table>
 
 <div align="center">
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27React%27%2C%27Next.js%27%2C%27Node.js%27%2C%27Express.js%27%2C%27MongoDB%27%2C%27PostgreSQL%27%2C%27Redis%27%2C%27Docker%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Proficiency%27%2Cdata%3A%5B92%2C88%2C95%2C90%2C88%2C82%2C85%2C78%5D%2CbackgroundColor%3A%27%2300F5FF%27%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Core%20Tech%20Proficiency%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bmax%3A100%2Cticks%3A%7Bcolor%3A%27%23c9d1d9%27%7D%2Cgrid%3A%7Bcolor%3A%27%23161b22%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A13%7D%7D%2Cgrid%3A%7Bcolor%3A%27%23161b22%27%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27DevOps%27%2C%27System%20Design%27%2C%27AI%20Integration%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B85%2C95%2C88%2C75%2C80%2C70%5D%2CbackgroundColor%3A%27rgba%28123%2C97%2C255%2C0.25%29%27%2CborderColor%3A%27%237B61FF%27%2CpointBackgroundColor%3A%27%23FF00FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Domain%20Balance%27%2Ccolor%3A%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27%23161b22%27%7D%2Cgrid%3A%7Bcolor%3A%27%23161b22%27%7D%2CpointLabels%3A%7Bcolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A12%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27React%27%2C%27Next.js%27%2C%27Node.js%27%2C%27Express.js%27%2C%27MongoDB%27%2C%27PostgreSQL%27%2C%27Redis%27%2C%27Docker%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Proficiency%27%2Cdata%3A%5B92%2C88%2C95%2C90%2C88%2C82%2C85%2C78%5D%2CbackgroundColor%3A%27%2300F5FF%27%2CborderColor%3A%27%237B61FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Core%20Tech%20Proficiency%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bmax%3A100%2Cticks%3A%7Bcolor%3A%27%23FFFFFF%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A13%7D%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27DevOps%27%2C%27System%20Design%27%2C%27AI%20Integration%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B85%2C95%2C88%2C75%2C80%2C70%5D%2CbackgroundColor%3A%27rgba%28123%2C97%2C255%2C0.35%29%27%2CborderColor%3A%27%237B61FF%27%2CpointBackgroundColor%3A%27%23FF00FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Domain%20Balance%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27%2321262d%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%2CpointLabels%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A12%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
 </div>
 
 <div align="center">
@@ -136,7 +138,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="analytics">📊 GITHUB ANALYTICS</h2>
 
@@ -145,13 +147,13 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 <div align="center">
 
 <h4>📈 Overview &amp; Top Languages</h4>
-<img height="170" alt="Rakesh's GitHub stats — total stars, commits, PRs, issues and contribution rank" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=c9d1d9&ring_color=FF00FF&count_private=true" />
-<img height="170" alt="Rakesh's most used languages by repository share" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
+<img height="175" alt="Rakesh's GitHub stats — total stars, commits, PRs, issues and contribution rank" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=FFFFFF&ring_color=FF00FF&count_private=true" />
+<img height="175" alt="Rakesh's most used languages by repository share" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" />
 
 <br/><br/>
 
 <h4>🔥 Contribution Streak</h4>
-<img alt="Rakesh's current and longest GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshchourasia&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B61FF&fire=FF00FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=c9d1d9&card_width=600" />
+<img alt="Rakesh's current and longest GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshchourasia&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B61FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=c9d1d9&card_width=600" />
 <br/><sub>Total contributions · current streak · longest streak — updates daily</sub>
 
 <br/><br/>
@@ -162,7 +164,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 <br/><br/>
 
 <h4>🏆 Trophy Case</h4>
-<img alt="Rakesh's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Rakeshchourasia&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img alt="Rakesh's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Rakeshchourasia&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10&row=1" />
 
 <br/><br/>
 
@@ -182,13 +184,13 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 | **Streak stats** | Total contributions, current daily streak, and longest streak on record | None — refreshes automatically |
 | **Activity graph** | Day-by-day contribution activity trend for the last month | None — refreshes automatically |
 | **Trophy case** | Milestone badges (stars, followers, commits, PRs, repos, etc.) | None — refreshes automatically |
-| **Contribution snake** | Animated snake that "eats" through the contribution graph | Requires a GitHub Action in a repo named exactly `Rakeshchourasia` (see <a href="https://github.com/Platane/snk">Platane/snk</a>) to generate the SVG this points to |
+| **Contribution snake** | Animated snake that "eats" through the contribution graph | Requires a GitHub Action in a repo named exactly `Rakeshchourasia` (see <a href="https://github.com/Platane/snk">Platane/snk</a>) to generate the SVG this points to. **If it appears blank, the Action hasn't run yet or the workflow needs to be added.** |
 
 > If any card above shows as broken instead of rendering, it's usually a temporary outage on the free stats API (Vercel/Heroku instances get rate-limited) — refreshing the page or waiting a few minutes usually fixes it.
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="experience">💼 EXPERIENCE &amp; EDUCATION</h2>
 
@@ -208,7 +210,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="projects">🚀 FEATURED PROJECTS</h2>
 
@@ -350,7 +352,7 @@ I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2>🌍 OPEN SOURCE, ORGANIZATIONS &amp; CREDENTIALS</h2>
 
@@ -394,23 +396,23 @@ Backend Architecture &amp; System Design
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="roadmap">🗺️ LEARNING ROADMAP</h2>
 
 <div align="center">
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27MERN%20Stack%27%2C%27Backend%20Architecture%27%2C%27Redis%27%2C%27BullMQ%27%2C%27Docker%27%2C%27System%20Design%27%2C%27AI%20Integration%27%2C%27Open%20Source%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Progress%20%25%27%2Cdata%3A%5B100%2C85%2C80%2C75%2C70%2C65%2C60%2C50%5D%2CbackgroundColor%3A%27%237B61FF%27%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Learning%20Roadmap%20Progress%27%2Ccolor%3A%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bmax%3A100%2Cticks%3A%7Bcolor%3A%27%23c9d1d9%27%7D%2Cgrid%3A%7Bcolor%3A%27%23161b22%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23c9d1d9%27%2Cfont%3A%7Bsize%3A12%7D%7D%2Cgrid%3A%7Bcolor%3A%27%23161b22%27%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="75%"/>
+<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27MERN%20Stack%27%2C%27Backend%20Architecture%27%2C%27Redis%27%2C%27BullMQ%27%2C%27Docker%27%2C%27System%20Design%27%2C%27AI%20Integration%27%2C%27Open%20Source%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Progress%20%25%27%2Cdata%3A%5B100%2C85%2C80%2C75%2C70%2C65%2C60%2C50%5D%2CbackgroundColor%3A%27%237B61FF%27%2CborderColor%3A%27%2300F5FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Learning%20Roadmap%20Progress%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bmax%3A100%2Cticks%3A%7Bcolor%3A%27%23FFFFFF%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A12%7D%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="75%"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/System%20Design-In%20Progress-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF" />
-<img src="https://img.shields.io/badge/AI%20Integration-In%20Progress-0D1117?style=for-the-badge&labelColor=0D1117&color=7B61FF" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-In%20Progress-0D1117?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
+<img src="https://img.shields.io/badge/System%20Design-In%20Progress-161B22?style=for-the-badge&labelColor=0D1117&color=00F5FF" />
+<img src="https://img.shields.io/badge/AI%20Integration-In%20Progress-161B22?style=for-the-badge&labelColor=0D1117&color=7B61FF" />
+<img src="https://img.shields.io/badge/Backend%20Architecture-In%20Progress-161B22?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="architecture">🏗️ BACKEND ARCHITECTURE &amp; SYSTEM DESIGN</h2>
 
@@ -448,7 +450,7 @@ Exploring practical **AI integration** in production applications — embedding 
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2>💭 QUOTE</h2>
 
@@ -459,24 +461,26 @@ Exploring practical **AI integration** in production applications — embedding 
 <h2>☕ SUPPORT</h2>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-0D1117?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FF00FF&labelColor=0D1117" /></a>
+<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-161B22?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FF00FF&labelColor=0D1117" /></a>
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=1F6FEB&height=3&width=100%25)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
 
 <h2 id="contact">🤝 CONNECT</h2>
 
 <div align="center">
 
-<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
-<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B61FF" /></a>
-<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
-  
+<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
+<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=7B61FF" /></a>
+<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
+
 If you're building something in **MERN**, **backend systems**, or **AI integration** — let's talk.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <sub>Rakesh Chourasia · Patna, Bihar, India</sub>
