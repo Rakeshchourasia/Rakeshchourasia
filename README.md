@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=260&section=header&text=RAKESH%20CHOURASIA&fontSize=46&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
