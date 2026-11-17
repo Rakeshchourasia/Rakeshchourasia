@@ -124,16 +124,37 @@ flowchart TD
 
 ---
 
-## GitHub Stats
+## GitHub Activity
+
+A snapshot of how I work on GitHub. These cards are generated daily by a GitHub Action in this repository, so they always reflect current data.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/Rakeshchourasia?label=Followers&style=for-the-badge&color=1F6FEB" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/Rakeshchourasia/Prompt-Optimizer?label=Last%20Commit&style=for-the-badge&color=7B61FF" alt="Last commit"/>
+<img src="https://img.shields.io/github/commit-activity/y/Rakeshchourasia/Prompt-Optimizer?label=Commits%20%2F%20Year&style=for-the-badge&color=0D1117" alt="Commit activity"/>
 
-<img src="https://streak-stats.demolab.com/?user=Rakeshchourasia&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<br/><br/>
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="Profile details: contributions, repositories and followers"/>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats: stars, commits, pull requests and issues"/>
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Languages ranked by number of repositories"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Languages ranked by commits"/>
+
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="60%" alt="Hours of the day when I commit most"/>
 
 </div>
+
+### How to read these cards
+
+| Card | What it tells you |
+|---|---|
+| **Profile details** | Total contributions, public repositories and followers, plus a contribution calendar for the year. |
+| **Stats** | Stars received, commits, pull requests and issues opened across my repositories. |
+| **Repos per language** | Which languages I reach for most often when starting a new project. My work is mostly JavaScript (React, Node.js, Express). |
+| **Most commit language** | Which languages I actually spend the most time writing code in, which can differ from the repo count. |
+| **Productive time** | The hours of the day when I commit most, showing my working rhythm. |
 
 ---
 
