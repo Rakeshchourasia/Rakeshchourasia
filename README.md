@@ -1,487 +1,150 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=260&section=header&text=RAKESH%20CHOURASIA&fontSize=46&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=58&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=220&section=header&text=Rakesh%20Chourasia&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20GenAI%20Enthusiast%20%C2%B7%20Tech%20Explorer&descAlignY=60&descSize=16&descColor=C9D1D9" width="100%" alt="Rakesh Chourasia"/>
 
-<img src="https://readme-typing-svg.demolab.com/?   font=JetBrains+Mono&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=800&lines=root%40rakesh%3A~%24+whoami;%3E+full_stack_developer.exe+--stack%3DMERN;%3E+building+scalable+backend+systems...;%3E+status%3A+system_online" alt="Typing SVG" />
-
-<br/>    
-     
-<p>
-<a href="#about"><b>ABOUT</b></a> &nbsp;·&nbsp;
-<a href="#skills"><b>SKILLS</b></a> &nbsp;·&nbsp;
-<a href="#analytics"><b>ANALYTICS</b></a> &nbsp;·&nbsp;
-<a href="#experience"><b>EXPERIENCE</b></a> &nbsp;·&nbsp;
-<a href="#projects"><b>PROJECTS</b></a> &nbsp;·&nbsp;
-<a href="#architecture"><b>ARCHITECTURE</b></a> &nbsp;·&nbsp;
-<a href="#roadmap"><b>ROADMAP</b></a> &nbsp;·&nbsp;
-<a href="#contact"><b>CONTACT</b></a>
-</p>
-
-<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0D1117&color=161B22" /></a>
-<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=7B61FF&labelColor=0D1117&color=161B22" /></a>
-<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF&labelColor=0D1117&color=161B22" /></a>
-<a href="mailto:rakesh.chourasia@example.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D&labelColor=0D1117&color=161B22" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Rakeshchourasia&label=PROFILE%20VIEWS&color=7B61FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rakeshchourasia?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/Rakeshchourasia?affiliations=OWNER&label=STARS&style=for-the-badge&color=FF00FF&labelColor=0D1117" />
-
-</div>
+<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/rakeshchourasia22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
+<img src="https://komarev.com/ghpvc/?username=Rakeshchourasia&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Rakeshchourasia?label=Followers&style=flat-square&color=7B61FF" alt="Followers"/>
 
-<h2 id="about">📌 SYSTEM BOOT &amp; ABOUT</h2>
+</div>
 
-```bash
-$ ssh rakesh@devserver
+---
 
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%  boot sequence complete
+## About
 
-> cat profile.json
-{
-  "name"      : "Rakesh Chourasia",
-  "role"      : "Full Stack MERN Developer",
-  "company"   : "Metconnect Infotech Pvt Ltd",
-  "education" : "B.Tech — Computer Science Engineering",
-  "location"  : "Patna, Bihar, India",
-  "stack"     : ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"],
-  "realtime"  : ["Redis", "BullMQ", "Socket.IO"],
-  "auth"      : "JWT",
-  "infra"     : "Docker",
-  "learning"  : ["System Design", "AI Integration", "Backend Architecture"],
-  "mission"   : "ship systems that survive real traffic",
-  "status"    : "system_online [OK]"
-}
-
-$ _
-```
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-I'm a **Full Stack MERN Developer** at **Metconnect Infotech Pvt Ltd**, based in **Patna, Bihar, India**. I care about backend-heavy, production-grade systems — architecture that survives real traffic, not just features that demo well.
+I'm a **Full Stack Developer** at **[MetConnect](https://github.com/MetConnect)** who builds web applications on the MERN stack and enjoys the backend side most: queues, caching, real-time messaging and API design. I'm also exploring **Generative AI** and how to embed it into production products in a practical way.
 
 | | |
 |---|---|
-| 🔭 **Building** | Queue-driven backend services with a real-time layer |
-| 🌱 **Learning** | System Design · AI Integration · Distributed Architecture |
-| 🎯 **Core stack** | React · Next.js · Node.js · Express · MongoDB · PostgreSQL |
-| ⚡ **Realtime** | Redis · BullMQ · Socket.IO |
-| 🔐 **Auth** | JWT-based authentication systems |
-| 🐳 **Infra** | Docker |
-| 💬 **Ask me about** | Backend architecture, queues, real-time systems, MERN |
+| **Role** | Full Stack Developer (MERN) |
+| **Company** | MetConnect |
+| **Focus** | Backend architecture, job queues, real-time systems, GenAI integration |
+| **Currently exploring** | System design, distributed architecture, AI-assisted workflows |
+| **Open to** | Collaboration, MERN / backend / GenAI projects |
 
-</td>
-<td width="40%" valign="top">
+---
 
-<table width="100%" style="border:1px solid #30363d;">
-<tr><td colspan="2" align="center"><b>🪪 DEVELOPER CARD</b></td></tr>
-<tr><td><b>Name</b></td><td>Rakesh Chourasia</td></tr>
-<tr><td><b>Role</b></td><td>MERN Developer</td></tr>
-<tr><td><b>Company</b></td><td>Metconnect Infotech</td></tr>
-<tr><td><b>Location</b></td><td>Patna, Bihar, IN</td></tr>
-<tr><td><b>Focus</b></td><td>Backend &amp; System Design</td></tr>
-<tr><td><b>Status</b></td><td>🟢 <code>AVAILABLE</code></td></tr>
-</table>
+## Tech Stack
 
-<br/>
+| Area | Technologies |
+|---|---|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Data & Queues** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-E5322D?style=flat-square) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **AI** | ![GenAI](https://img.shields.io/badge/Generative%20AI-7B61FF?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1F6FEB?style=flat-square) |
 
-<img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-161B22?style=for-the-badge&labelColor=0D1117&color=00F5FF" /><br/><br/>
-<img src="https://img.shields.io/badge/BUILDING-Scalable%20Systems-161B22?style=for-the-badge&labelColor=0D1117&color=7B61FF" /><br/><br/>
-<img src="https://img.shields.io/badge/FOCUS-Backend%20First-161B22?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
+---
 
-</td>
-</tr>
-</table>
+## Featured Projects
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="skills">🛠️ SKILLS</h2>
-
-<table width="100%">
-<tr><td width="16%"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark&perline=6"/></td></tr>
-<tr><td><b>Backend</b></td><td>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>&nbsp;
-<img src="https://img.shields.io/badge/BullMQ-161B22?style=for-the-badge&labelColor=0D1117&color=00F5FF"/>
-<img src="https://img.shields.io/badge/Socket.IO-161B22?style=for-the-badge&logo=socketdotio&logoColor=7B61FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=FF00FF&labelColor=0D1117"/>
-</td></tr>
-<tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark"/></td></tr>
-<tr><td><b>DevOps &amp; Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&theme=dark"/></td></tr>
-<tr><td><b>Testing</b></td><td>
-<img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=00F5FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/API%20Testing-161B22?style=for-the-badge&labelColor=0D1117&color=00FF9D"/>
-</td></tr>
-<tr><td><b>AI</b></td><td>
-<img src="https://img.shields.io/badge/AI%20Integration-161B22?style=for-the-badge&labelColor=0D1117&color=7B61FF"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-161B22?style=for-the-badge&labelColor=0D1117&color=FF00FF"/>
-</td></tr>
-</table>
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27React%27%2C%27Next.js%27%2C%27Node.js%27%2C%27Express.js%27%2C%27MongoDB%27%2C%27PostgreSQL%27%2C%27Redis%27%2C%27Docker%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Proficiency%27%2Cdata%3A%5B92%2C88%2C95%2C90%2C88%2C82%2C85%2C78%5D%2CbackgroundColor%3A%27%2300F5FF%27%2CborderColor%3A%27%237B61FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Core%20Tech%20Proficiency%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bmax%3A100%2Cticks%3A%7Bcolor%3A%27%23FFFFFF%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A13%7D%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27DevOps%27%2C%27System%20Design%27%2C%27AI%20Integration%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%20Level%27%2Cdata%3A%5B85%2C95%2C88%2C75%2C80%2C70%5D%2CbackgroundColor%3A%27rgba%28123%2C97%2C255%2C0.35%29%27%2CborderColor%3A%27%237B61FF%27%2CpointBackgroundColor%3A%27%23FF00FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Domain%20Balance%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A%27%2321262d%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%2CpointLabels%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A12%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="49%"/>
-</div>
-
-<div align="center">
-
-**⚡ TECH STACK**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,redis,docker,js,html,css,tailwind,git,github,vscode,postman,figma,vercel&theme=dark&perline=9" />
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="analytics">📊 GITHUB ANALYTICS</h2>
-
-<p align="center"><sub>Live stats pulled directly from GitHub — commits, languages, streaks, and daily activity, all in one place.</sub></p>
-
-<div align="center">
-
-<h4>📈 Overview &amp; Top Languages</h4>
-<img height="175" alt="Rakesh's GitHub stats — total stars, commits, PRs, issues and contribution rank" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B61FF&text_color=FFFFFF&ring_color=FF00FF&count_private=true" />
-<img height="175" alt="Rakesh's most used languages by repository share" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" />
-
-<br/><br/>
-
-<h4>🔥 Contribution Streak</h4>
-<img alt="Rakesh's current and longest GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshchourasia&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B61FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=c9d1d9&card_width=600" />
-<br/><sub>Total contributions · current streak · longest streak — updates daily</sub>
-
-<br/><br/>
-
-<h4>📅 Daily Activity Graph</h4>
-<img alt="Rakesh's daily GitHub contribution activity over the last month" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshchourasia&bg_color=0D1117&color=00F5FF&line=7B61FF&point=FF00FF&area=true&area_color=7B61FF&hide_border=true&hide_title=false" width="97%"/>
-
-<br/><br/>
-
-<h4>🏆 Trophy Case</h4>
-<img alt="Rakesh's GitHub profile trophies" src="https://github-profile-trophy.vercel.app/?username=Rakeshchourasia&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10&row=1" />
-
-<br/><br/>
-
-<h4>🐍 Contribution Snake</h4>
-<img alt="Animated snake eating through Rakesh's contribution graph" src="https://raw.githubusercontent.com/Rakeshchourasia/Rakeshchourasia/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-
-</div>
-
-<details>
-<summary><b>ℹ️ what each widget shows &amp; setup notes</b></summary>
-<br/>
-
-| Widget | What it shows | Setup needed |
-|---|---|---|
-| **Overview card** | Total stars earned, commits, PRs, issues, and GitHub contribution rank | None — refreshes automatically |
-| **Top languages** | Most-used languages across public repos, by percentage | None — refreshes automatically |
-| **Streak stats** | Total contributions, current daily streak, and longest streak on record | None — refreshes automatically |
-| **Activity graph** | Day-by-day contribution activity trend for the last month | None — refreshes automatically |
-| **Trophy case** | Milestone badges (stars, followers, commits, PRs, repos, etc.) | None — refreshes automatically |
-| **Contribution snake** | Animated snake that "eats" through the contribution graph | Requires a GitHub Action in a repo named exactly `Rakeshchourasia` (see <a href="https://github.com/Platane/snk">Platane/snk</a>) to generate the SVG this points to. **If it appears blank, the Action hasn't run yet or the workflow needs to be added.** |
-
-> If any card above shows as broken instead of rendering, it's usually a temporary outage on the free stats API (Vercel/Heroku instances get rate-limited) — refreshing the page or waiting a few minutes usually fixes it.
-
-</details>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="experience">💼 EXPERIENCE &amp; EDUCATION</h2>
-
-<table width="100%">
-<tr><th align="left">Period</th><th align="left">Role</th><th align="left">Organization</th><th align="left">Highlights</th></tr>
-<tr>
-<td valign="top">🟢 <b>Present</b></td>
-<td valign="top">Full Stack MERN Developer</td>
-<td valign="top">Metconnect Infotech Pvt Ltd</td>
-<td valign="top">Backend architecture · real-time systems (Socket.IO + Redis) · queue processing (BullMQ) · JWT auth · Docker</td>
-</tr>
-<tr>
-<td valign="top">🎓</td>
-<td valign="top">B.Tech, Computer Science Engineering</td>
-<td valign="top">—</td>
-<td valign="top">Strong foundation in Data Structures, Algorithms &amp; Systems</td>
-</tr>
-</table>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="projects">🚀 FEATURED PROJECTS</h2>
-
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-> ### 🤖 Prompt Optimizer
-> **AI Prompt Management Platform**
->
-> ⚡ Rich markdown editor for prompt authoring
-> ⚡ AI-assisted prompt refinement
-> ⚡ Version control for prompt history
-> ⚡ Smart search &amp; custom collections
->
-> `React` `Node.js` `MongoDB`
-> · 🟢 **Active Development**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
+### [Prompt Optimizer](https://github.com/Rakeshchourasia/Prompt-Optimizer)
+AI-assisted tool for refining and managing prompts.
+
+`JavaScript` `GenAI`
 
 </td>
 <td width="50%" valign="top">
 
-> ### 🏢 HR Management System
-> **Enterprise Workforce Platform**
->
-> ⚡ Employee lifecycle management
-> ⚡ Attendance &amp; leave tracking
-> ⚡ Role-based access control
-> ⚡ Admin analytics dashboard
->
-> `React` `Express` `MongoDB`
-> · 🟢 **Production**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
+### [BullMQ · Redis · GraphQL](https://github.com/Rakeshchourasia/Bullmq-redis-graphql)
+Queue-driven backend combining BullMQ job processing, Redis and a GraphQL API.
+
+`JavaScript` `BullMQ` `Redis` `GraphQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-> ### 🌾 Brilliant Bihar
-> **Regional Digital Platform**
->
-> ⚡ Content management system
-> ⚡ Regional data aggregation
-> ⚡ Responsive, SEO-optimized portal
->
-> `Next.js` `Node.js` `PostgreSQL`
-> · 🟢 **Live**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
+### [Notes Manager AI](https://github.com/Rakeshchourasia/Notes-manager-ai)
+Notes application with AI-powered features.
+
+`JavaScript` `GenAI`
 
 </td>
 <td width="50%" valign="top">
 
-> ### 🏘️ Property Listing Portal
-> **Real Estate Marketplace**
->
-> ⚡ Advanced property search &amp; filters
-> ⚡ Image galleries and virtual tours
-> ⚡ Owner/agent dashboards
-> ⚡ Geo-location based filtering
->
-> `React` `Express` `MongoDB`
-> · 🟢 **Production**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
+### [Eruvaka Spices Hub](https://github.com/Rakeshchourasia/Eruvaka-Spices-hub)
+Web platform for a spices business.
+
+`JavaScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-> ### 💬 Real-Time Chat Application
-> **Live Messaging Platform**
->
-> ⚡ Socket.IO powered messaging
-> ⚡ Redis pub/sub for horizontal scaling
-> ⚡ Typing indicators &amp; online presence
-> ⚡ JWT-secured chat rooms
->
-> `React` `Socket.IO` `Redis`
-> · 🟢 **Active Development**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
+### [Movie Recommendation System](https://github.com/Rakeshchourasia/movie-recommendation-system)
+Recommendation engine that suggests movies based on similarity.
+
+`Machine Learning`
 
 </td>
 <td width="50%" valign="top">
 
-> ### 📊 Zomato Sales Analysis
-> **Data Analytics Dashboard**
->
-> ⚡ Sales trend visualization
-> ⚡ Regional performance breakdown
-> ⚡ Interactive charts &amp; filters
-> ⚡ Data cleaning pipeline
->
-> `React` `Node.js` `PostgreSQL`
-> · 🟢 **Completed**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
+### [Portfolio](https://github.com/Rakeshchourasia/Myportfolio)
+Personal portfolio built with React and Vite, deployed on Vercel.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-> ### 🗺️ Land Portal
-> **Land Records &amp; Listings Platform**
->
-> ⚡ Land record digitization
-> ⚡ Map-based plot visualization
-> ⚡ Document upload &amp; verification
-> ⚡ Admin approval workflow
->
-> `Next.js` `Express` `MongoDB`
-> · 🟢 **Production**
->
-> [**View Code →**](https://github.com/Rakeshchourasia)
-
-</td>
-<td width="50%" valign="top">
-
-> ### 🌐 Portfolio Website
-> **Personal Developer Showcase**
->
-> ⚡ Interactive project showcase
-> ⚡ Smooth scroll animations
-> ⚡ Fully responsive design
-> ⚡ Optimized for performance on Vercel
->
-> `Next.js` `React` `Tailwind`
-> · 🟢 **Live**
->
-> [**Live Demo →**](https://rakeshchourasia-portfolio.vercel.app/) · [**View Code →**](https://github.com/Rakeshchourasia)
+`React` `Vite` · [Live site](https://rakeshchourasia-portfolio.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
+More work is available on my [repositories page](https://github.com/Rakeshchourasia?tab=repositories).
 
-<h2>🌍 OPEN SOURCE, ORGANIZATIONS &amp; CREDENTIALS</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+## Architecture Focus
 
-**🤝 Open Source**
-
-Exploring contributions to MERN-stack tooling, focused on backend utilities and queue systems, with clean commits and meaningful PRs.
-
-</td>
-<td width="33%" valign="top">
-
-**🏢 Organizations**
-
-Metconnect Infotech Pvt Ltd
-Full Stack MERN Developer
-
-</td>
-<td width="33%" valign="top">
-
-**📜 Certifications**
-
-B.Tech, Computer Science Engineering
-Full Stack Web Development (MERN)
-Backend Architecture &amp; System Design
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🏆 Achievements</b></summary>
-<br/>
-
-- Delivered multiple production-grade MERN applications end-to-end
-- Designed real-time systems handling concurrent socket connections
-- Built queue-driven backend architecture with BullMQ &amp; Redis
-- Architected secure authentication flows using JWT
-
-</details>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="roadmap">🗺️ LEARNING ROADMAP</h2>
-
-<div align="center">
-<img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27MERN%20Stack%27%2C%27Backend%20Architecture%27%2C%27Redis%27%2C%27BullMQ%27%2C%27Docker%27%2C%27System%20Design%27%2C%27AI%20Integration%27%2C%27Open%20Source%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Progress%20%25%27%2Cdata%3A%5B100%2C85%2C80%2C75%2C70%2C65%2C60%2C50%5D%2CbackgroundColor%3A%27%237B61FF%27%2CborderColor%3A%27%2300F5FF%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7BindexAxis%3A%27y%27%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Learning%20Roadmap%20Progress%27%2Ccolor%3A%27%2300F5FF%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7Bx%3A%7Bmax%3A100%2Cticks%3A%7Bcolor%3A%27%23FFFFFF%27%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%2Cy%3A%7Bticks%3A%7Bcolor%3A%27%23FFFFFF%27%2Cfont%3A%7Bsize%3A12%7D%7D%2Cgrid%3A%7Bcolor%3A%27%2321262d%27%7D%7D%7D%7D%7D&backgroundColor=%230D1117&width=650&height=380&devicePixelRatio=2" width="75%"/>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/System%20Design-In%20Progress-161B22?style=for-the-badge&labelColor=0D1117&color=00F5FF" />
-<img src="https://img.shields.io/badge/AI%20Integration-In%20Progress-161B22?style=for-the-badge&labelColor=0D1117&color=7B61FF" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-In%20Progress-161B22?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="architecture">🏗️ BACKEND ARCHITECTURE &amp; SYSTEM DESIGN</h2>
+How I like to structure backend systems: request/response logic stays separate from background processing, with Redis as the backbone for caching, pub/sub and job queues.
 
 ```mermaid
 flowchart TD
-    A[Client — React / Next.js] --> B[API Gateway / Express Server]
-    B --> C[Auth Layer — JWT]
+    A[Client: React / Next.js] --> B[API Layer: Express]
+    B --> C[Auth: JWT]
     B --> D[Business Logic]
-    B --> E[WebSocket — Socket.IO]
+    B --> E[Real-time: Socket.IO]
     D --> F[(MongoDB / PostgreSQL)]
-    D --> G[(Redis — Cache + Pub/Sub)]
+    D --> G[(Redis: Cache + Pub/Sub)]
     E --> G
-    G --> H[BullMQ — Job Queues]
+    G --> H[BullMQ Job Queues]
     H --> I[Background Workers]
 ```
 
-Focused on **modular, queue-driven, horizontally scalable** backend systems — separating request/response logic from background processing, using Redis as the backbone for caching, pub/sub messaging, and job queues via BullMQ.
+---
 
-**Core focus areas:** load balancing across Node.js clusters · cache-aside strategies with Redis · async job processing with BullMQ · query and index optimization on MongoDB/PostgreSQL · rate limiting and JWT auth at the gateway layer · designing for horizontal scale from day one.
-
-<h2>🤖 AI PROJECTS &amp; CURRENT FOCUS</h2>
-
-**Prompt Optimizer** — AI-assisted prompt refinement and version control for structured prompt engineering.
-
-Exploring practical **AI integration** in production applications — embedding AI-assisted workflows into full-stack products rather than treating AI as a side experiment.
-
-<details>
-<summary><b>🎲 A few things I obsess over</b></summary>
-<br/>
-
-- I think in terms of queues, not just functions
-- Redis is basically my second brain
-- System design diagrams live rent-free in my head
-- I ship features, but I obsess over architecture
-
-</details>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2>💭 QUOTE</h2>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
-<h2>☕ SUPPORT</h2>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-161B22?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FF00FF&labelColor=0D1117" /></a>
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7B61FF&height=4&width=100%25)
-
-<h2 id="contact">🤝 CONNECT</h2>
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=00F5FF" /></a>
-<a href="https://linkedin.com/in/rakesh-chourasia-3a4b3825b"><img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=7B61FF" /></a>
-<a href="https://github.com/Rakeshchourasia"><img src="https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshchourasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshchourasia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-If you're building something in **MERN**, **backend systems**, or **AI integration** — let's talk.
+<img src="https://streak-stats.demolab.com/?user=Rakeshchourasia&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=120&section=footer" width="100%"/>
+## Connect
+
+I'm happy to talk about MERN development, backend architecture or GenAI integration.
 
 <div align="center">
-<sub>Rakesh Chourasia · Patna, Bihar, India</sub>
+
+[Portfolio](https://rakeshchourasia-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/rakesh-chourasia-3a4b3825b) · [Instagram](https://www.instagram.com/rakeshchourasia22/) · [Facebook](https://www.facebook.com/rakesh.chourasia.52459)
+
 </div>
- 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=100&section=footer" width="100%" alt=""/>
