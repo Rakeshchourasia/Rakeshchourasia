@@ -1,5 +1,5 @@
  <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B61FF&height=220&section=header&text=Rakesh%20Chourasia&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20GenAI%20Enthusiast&descAlignY=60&descSize=15&descColor=C9D1D9" width="100%" alt="Rakesh Chourasia Header"/>
 
 <a href="https://rakeshchourasia-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
